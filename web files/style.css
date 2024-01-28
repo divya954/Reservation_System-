@@ -1,0 +1,22 @@
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .container {
+            flex: 1;
+        }
+
+        .bg-orange {
+        background-color: #FFA500; /* Use the desired shade of orange */
+        }
+        
+        .bg-black {
+        background-color: #000;
+        }
+
+        body, html {
+            height: 100%;
+            background-color:#ecf8ec;
+        }
