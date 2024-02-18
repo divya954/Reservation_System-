@@ -1,6 +1,6 @@
-#Project Title: Wedding Venue Reservation System
+Project Title: Wedding Venue Reservation System
 
-##Description:
+Description:
 
 Welcome to the Wedding Venue Reservation System! A project fueled by my passion for seamless event planning. As part of my bachelor's degree in Information Systems, I've developed a system that simplifies the process of booking wedding venues.
 
