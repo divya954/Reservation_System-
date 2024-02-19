@@ -1,6 +1,6 @@
 # Wedding Venue Reservation System
 
-This repository contains the source code and database schema for a Wedding Venue Reservation System. The system allows users to reserve venues for weddings, manage bookings, and handle administrative tasks related to venue management.
+This repository contains the source code and database schema for a Wedding Venue Reservation System. The system allows users to reserve venues for weddings, list bookings, and handle administrative tasks related to venue management.
 
 ## Project Structure
 
